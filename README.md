@@ -7,13 +7,15 @@ I'm Luca and I'm an italian developer.
 
 ## Some Stats
 
-# Aggiungere stats github
+<!-- Aggiungere stats github -->
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaR01&count_private=true) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaR01&show_icons=true&count_private=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaR01&show_icons=true&count_private=true&theme=darcula)
 
 
 
-# Aggiungere stats languages
+<!-- Aggiungere stats languages -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Some of the projects I worked on:
