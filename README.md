@@ -49,6 +49,7 @@ I'm Luca and I'm an italian developer.
   <div style="display: inline_block"><br>
     <img align="center" alt="Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
     <img align="center" alt="Debian" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" />
+    <img align="center" alt="Windows" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" />
   </div>
 
 ### Some of the projects I worked on:
