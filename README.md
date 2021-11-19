@@ -54,7 +54,7 @@ I'm Luca and I'm an italian developer.
 
 ### Some of the projects I worked on:
  
-<!-- TODO: Quando metto la 4à repo allora mettere 120em -->
+<!-- TODO: Quando metto la 4à repo allora mettere 120em o 100em -->
 <div align="center">
   <a href="https://github.com/LucaR01">
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=LucaR01&repo=Progetto-di-Programmazione-di-Reti&theme=merko"/>
