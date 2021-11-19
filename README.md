@@ -53,6 +53,10 @@ I'm Luca and I'm an italian developer.
     <img align="center" alt="Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
     <img align="center" alt="Debian" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" />
   </div>
+  
+  ## Wakatime Week Stats
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LucaR01)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
