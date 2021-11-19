@@ -15,7 +15,7 @@ I'm Luca and I'm an italian developer.
 
 
 <!-- Aggiungere stats languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/LucaR01/github-readme-stats)
 
 
 ### Some of the projects I worked on:
