@@ -9,8 +9,8 @@ I'm Luca and I'm an italian developer.
 
 # Aggiungere stats github
 
-# ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaR01&count_private=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaR01&show_icons=true&count_private=true&theme=dark)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaR01&count_private=true) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaR01&show_icons=true&count_private=true&theme=merko)
 
 
 
