@@ -1,20 +1,17 @@
 ### Hi there
 I'm Luca and I'm an italian developer.
 
-### Tools and Languages
-
-<!-- Immagini linguaggi e ide utilizzati. -->
-
 ## Some Stats
-
 <!-- Aggiungere stats github e languages -->
-
 
 <div align="center">
   <a href="https://github.com/LucaR01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucaR01&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaR01&layout=compact&langs_count=6&theme=merko"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucaR01&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaR01&layout=compact&langs_count=6&theme=merko"/>
 </div>
+  
+### Tools and Languages
+<!-- Immagini linguaggi e ide utilizzati. -->
   
   ## Languages
   
