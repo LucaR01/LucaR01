@@ -59,4 +59,11 @@ I'm Luca and I'm an italian developer.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucaR01&repo=Progetto-di-Programmazione-di-Reti)]
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pensilina14&repo=bullet-ballet)]
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Luca-Ale&repo=Il-dojo-dei-panini)]
+  
+<div align="center">
+  <a href="https://github.com/LucaR01">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=LucaR01&repo=Progetto-di-Programmazione-di-Reti"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=Pensilina14&repo=bullet-ballet"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=Luca-Ale&repo=Il-dojo-dei-panini"/>
+</div>
 
