@@ -44,7 +44,7 @@ I'm Luca and I'm an italian developer.
     <img align="center" alt="Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
   </div>
   
-  ## Operative Systems used
+  ## Operative Systems
   
   <div style="display: inline_block"><br>
     <img align="center" alt="Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
