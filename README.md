@@ -17,6 +17,14 @@ I'm Luca and I'm an italian developer.
 <!-- Aggiungere stats languages -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaR01&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucaR01&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucaR01&repo=convoychat" />
+</a>
+
+
 
 
 ### Some of the projects I worked on:
