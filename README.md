@@ -30,8 +30,8 @@ I'm Luca and I'm an italian developer.
   <img align="center" alt="JQuery" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" />
   <img align="center" alt="Markdown" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" />
   <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="TeX" height="30" width="40" src="./icons/Tex/LaTeX.jpg" />
-  <img align="center" alt="APL" height="30" width="40" src="./icons/APL/apl.jpg" />
+  <img align="center" alt="TeX" height="30" width="40" src="icons/Tex/LaTeX.jpg" />
+  <img align="center" alt="APL" height="30" width="40" src="icons/APL/apl.jpg" />
   <img align="center" alt="Maven" height="30" width="40" src="./icons/Maven/maven.png" />
 </div>
   
@@ -45,7 +45,7 @@ I'm Luca and I'm an italian developer.
   <img align="center" alt="Gradle" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" />
   <img align="center" alt="Trello" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" />
   <img align="center" alt="Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
-  <img align="center" alt="Atom" height="30" width="40" src="./icons/atom-original.svg" />
+  <img align="center" alt="Atom" height="30" width="40" src="icons/atom/atom-original.svg" />
 </div>
   
 ## Operative Systems
@@ -54,7 +54,7 @@ I'm Luca and I'm an italian developer.
   <img align="center" alt="Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
   <img align="center" alt="Debian" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" />
   <img align="center" alt="Windows" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" />
-  <img align="center" alt="Ubuntu" height="30" width="40" src="./icons/ubuntu/ubuntu-plain.svg" />
+  <img align="center" alt="Ubuntu" height="30" width="40" src="icons/ubuntu/ubuntu-plain.svg" />
 </div>
 
 ### Some of the projects I worked on:
