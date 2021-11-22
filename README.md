@@ -4,7 +4,7 @@ I'm Luca and I'm an italian developer.
 ## Some Stats
 <!-- Aggiungere stats github e languages -->
 
-<div align="center">
+<div align="center" id="stats">
   <a href="https://github.com/LucaR01">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucaR01&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaR01&layout=compact&langs_count=6&theme=merko"/>
@@ -15,7 +15,7 @@ I'm Luca and I'm an italian developer.
   
 ## Languages
   
-<div style="display: inline_block"><br>
+<div id="languages" style="display: inline_block"><br>
   <img align="center" alt="C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />
   <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
   <img align="center" alt="C++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
@@ -50,7 +50,7 @@ I'm Luca and I'm an italian developer.
   
 ## Operative Systems
   
-<div style="display: inline_block"><br>
+<div id="os" style="display: inline_block"><br>
   <img align="center" alt="Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
   <img align="center" alt="Debian" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" />
   <img align="center" alt="Windows" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" />
@@ -60,10 +60,19 @@ I'm Luca and I'm an italian developer.
 ### Some of the projects I worked on:
  
 <!-- TODO: Quando metto la 4à repo allora mettere 120em o 100em -->
-<div align="center">
-  <a href="https://github.com/LucaR01">
+<!-- quando si clicca sui pin deve portare alla repository -->
+<div id="pin" align="center">
+  <a href="https://github.com/LucaR01/Progetto-di-Programmazione-di-Reti">
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=LucaR01&repo=Progetto-di-Programmazione-di-Reti&theme=merko"/>
+</div>
+
+<div id="pin2" align="center">
+  <a href="https://github.com/Pensilina14/bullet-ballet">
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Pensilina14&repo=bullet-ballet&theme=merko"/>
+</div>
+
+<div id="pin3" align="center">
+  <a href="https://github.com/Luca-Ale/Il-dojo-dei-panini">
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Luca-Ale&repo=Il-dojo-dei-panini&theme=merko"/>
   <!-- <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=LucaR01&repo=Aeroporto"/> -->
 </div>
