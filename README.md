@@ -62,14 +62,9 @@ I'm Luca and I'm an italian developer.
 <!-- TODO: Quando metto la 4à repo allora mettere 120em o 100em -->
 <!-- quando si clicca sui pin deve portare alla repository -->
 <div id="pin" align="center">
-  <a href="https://github.com/LucaR01/Progetto-di-Programmazione-di-Reti"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=LucaR01&repo=Progetto-di-Programmazione-di-Reti&theme=merko"/></a>
   <a href="https://github.com/Pensilina14/bullet-ballet"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Pensilina14&repo=bullet-ballet&theme=merko"/></a>
   <a href="https://github.com/Luca-Ale/Il-dojo-dei-panini"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Luca-Ale&repo=Il-dojo-dei-panini&theme=merko"/></a>
-</div>
-
-<div id="pin3" align="center">
-  
-  
-  <!-- <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=LucaR01&repo=Aeroporto"/> -->
+  <a href="https://github.com/LucaR01/Progetto-di-Programmazione-di-Reti"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=LucaR01&repo=Progetto-di-Programmazione-di-Reti&theme=merko"/></a>
+  <!-- <a href="https://github.com/LucaR01/Aeroporto"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=LucaR01&repo=Aeroporto"/></a> -->
 </div>
 
