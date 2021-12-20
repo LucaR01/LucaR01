@@ -30,7 +30,7 @@ I'm Luca and I'm an italian developer.
   <img align="center" alt="JQuery" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" />
   <img align="center" alt="Markdown" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" />
   <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="TeX" height="40" width="40" src="icons/TeX/LaTeX_logo.png" />
+  <img align="center" alt="TeX" height="60" width="60" src="icons/TeX/LaTeX_logo.png" />
   <img align="center" alt="APL" height="30" width="40" src="icons/APL/apl_icon.png" />
   <img align="center" alt="Assembly" height="30" width="40" src="icons/asm/x86_icon.png" />
 </div>
