@@ -50,7 +50,7 @@ I'm Luca and I'm an italian developer.
   <img align="center" alt="CodeBlocks" height="50" width="50" src="./icons/CodeBlocks/CodeBlocks_icon.png" />
 </div>
   
-## Operative Systems
+## Operating Systems
   
 <div id="os" style="display: inline_block"><br>
   <img align="center" alt="Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
