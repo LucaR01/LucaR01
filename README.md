@@ -49,7 +49,8 @@ I'm Luca and I'm an italian developer.
   <img align="center" alt="Atom" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" />
   <img align="center" alt="Maven" height="30" width="40" src="./icons/Maven/maven.png" />
   <img align="center" alt="CodeBlocks" height="50" width="50" src="./icons/CodeBlocks/CodeBlocks_icon.png" />
-  <img align="center" alt="Atom" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" />
+  <img align="center" alt="Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" />
+  <img align="center" alt="Android Studio" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" />
 </div>
   
 ## Operating Systems
