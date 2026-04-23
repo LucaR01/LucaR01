@@ -40,7 +40,7 @@ I'm Luca and I'm an italian developer.
   
 ## Tools
   
-<div style="display: inline_block"><br>
+<div style="display: inline-block"><br>
   
   <img align="center" alt="Visual Studio Code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Visual Studio" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" />
@@ -57,7 +57,7 @@ I'm Luca and I'm an italian developer.
   
 ## Operating Systems
   
-<div id="os" style="display: inline_block"><br>
+<div id="os" style="display: inline-block"><br>
   <img align="center" alt="Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
   <img align="center" alt="Debian" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" />
   <img align="center" alt="Windows" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" />
